@@ -1,3 +1,11 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: {
+    absolute: "About",
+  },
+};
+
 export default function AboutPage() {
   return (
     <div className="max-w-prose m-auto space-y-3">
