@@ -1,3 +1,15 @@
+# SEO in Next.js
+
+Reference: [Coding In Flow](https://www.youtube.com/watch?v=wTGVHLyV09M&t=3286s)
+
+- Static metadata, title template, favicon, opengraph-image, next/Font, next/Image
+- Dynamic metadata (generateMetadata), React cache
+- Static rendering & caching, generateStaticParams, notFound
+- Server components (SSR) vs client components (CSR)
+- Dynamic sitemap (sitemap.ts)
+- Robots.txt & robots meta tag
+- Google Search Console & Vercel Analytics connection
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
